@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaseAdapters</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Countries">
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Norway</item>
+        <item>Portugal</item>
+        <item>Scotland</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>This is Ireland</item>
+        <item>This is Italy</item>
+        <item>This is Norway</item>
+        <item>This is Portugal</item>
+        <item>This is Scotland</item>
+        <item>This is Spain</item>
+        <item>This is Sweden</item>
+        <item>This is Switzerland</item>
+    </string-array>
+
+</resources>
